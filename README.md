@@ -1,10 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=FFB6C1&center=true&vCenter=true&width=900&size=40&duration=2500&pause=1000&lines=heyyy+there%2C+i+love+exploring;building+random+things;welcome+to+my+profile+%3A%29)](https://github.com/Bhakti-W)
  
 
- i'm just a curious cat :p
-
-<h2 align="center">my current music obsession :D</h2>
-
+### my current music obsession :D
 <table>
 <tr>
 <td align="center">
