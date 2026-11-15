@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=FFB6C1&center=true&vCenter=true&width=900&size=40&duration=2500&pause=1000&lines=heyyy+there%2C+i+love+exploring;building+random+things;welcome+to+my+profile+%3A%29)](https://github.com/Bhakti-W)
  
 
-                                                                       ### my current music obsession :D
+
+### my current music obsession :D
 <table>
 <tr>
 <td align="center">
@@ -17,6 +18,14 @@
 <img src="./assets/music/hk.jpg" width="130"><br>
 <b>Jaane wo kaise log the</b><br>
 <sub>Hemant Kumar</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B?si=486f6efdf40f4263">
+<img src="./assets/music/mrbrightside.jpg" width="130"><br>
+<b>JMr. Brightside</b><br>
+<sub>The Killers</sub>
 </a>
 </td>
 
