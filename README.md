@@ -2,7 +2,8 @@
  
 
 
-### my current music obsession :D
+
+<h4 align="center">my current music obsession :D</h4>
 <table>
 <tr>
 <td align="center">
