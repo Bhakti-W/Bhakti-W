@@ -25,7 +25,7 @@
 <td align="center">
 <a href="https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B?si=486f6efdf40f4263">
 <img src="./assets/music/mrbrightside.jpg" width="130"><br>
-<b>JMr. Brightside</b><br>
+<b>Mr. Brightside</b><br>
 <sub>The Killers</sub>
 </a>
 </td>
