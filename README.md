@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=FFB6C1&center=true&vCenter=true&width=900&size=40&duration=2500&pause=1000&lines=heyyy+there%2C+i+love+exploring;building+random+things;welcome+to+my+profile+%3A%29)](https://github.com/Bhakti-W)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=FFB6C1&center=true&vCenter=true&width=900&size=40&duration=2500&pause=1000&lines=heyyy+there%2C+welcome+to+da+profile+%3A%29)](https://github.com/Bhakti-W)
  
 
 
